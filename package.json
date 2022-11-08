@@ -1,0 +1,20 @@
+{
+  "name": "platzi-courses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodriguezespinoza0795/platzi-courses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodriguezespinoza0795/platzi-courses/issues"
+  },
+  "homepage": "https://github.com/rodriguezespinoza0795/platzi-courses#readme"
+}
